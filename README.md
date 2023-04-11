@@ -1,1 +1,1 @@
-# ISI-project
+# ArcGIS Java SDK
